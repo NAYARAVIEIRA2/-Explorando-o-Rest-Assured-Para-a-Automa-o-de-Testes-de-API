@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Java.BookingTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 56.302 s <<< FAILURE! - in Java.BookingTests
+CreateBooking_WithValidData_returnOk  Time elapsed: 0.025 s  <<< ERROR!
+java.lang.IllegalArgumentException: Schema to use cannot be null
+	at Java.BookingTests.CreateBooking_WithValidData_returnOk(BookingTests.java:87)
+

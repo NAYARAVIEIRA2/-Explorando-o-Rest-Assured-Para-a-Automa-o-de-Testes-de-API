@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Dio-QA\Dio\Explorando o Rest Assured Para a Automação de Testes de API\DioProjetoFinal\.metadata\.plugins\org.eclipse.jdt.core
+730504571.index
+1052608496.index
+3163700490.index
+1865797976.index
